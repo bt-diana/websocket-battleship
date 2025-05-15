@@ -1,17 +1,19 @@
 {
-    "name": "ws_task",
+    "name": "websocket-battleship",
     "version": "1.0.0",
-    "description": "Template for the WebSocket remote control task",
-    "main": "index.js",
+    "description": "Backend for a Battleship game using WebSocket",
     "type": "module",
     "scripts": {
         "start": "node ./index.js",
         "start:dev": "nodemon ./index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Andrei Auchynnikau",
-    "keywords": [],
-    "license": "ISC",
+    "author": "Butiakova Diana <butyakova01@gmail.com> (https://github.com/bt-diana)",
+    "keywords": [
+        "node",
+        "websocket"
+    ],
+    "license": "MIT",
     "devDependencies": {
         "nodemon": "^2.0.16"
     },
