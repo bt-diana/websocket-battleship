@@ -32,7 +32,7 @@ This project is a **backend for a Battleship game** using **WebSocket**. It allo
 1. Clone the repository:
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/bt-diana/websocket-battleship.git
 ```
 
 2. Navigate to the project directory:
@@ -217,22 +217,6 @@ Run automated tests:
 npm test
 ```
 
-## Example Test Scenario
-
-1. **Register two players.**
-
-2. **Create a game room.**
-
-3. **Join the second player to the room.**
-
-4. **Start the game and place ships.**
-
-5. **Execute some attack commands.**
-
-6. **Check the winner announcement.**
-
----
-
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the MIT License.
